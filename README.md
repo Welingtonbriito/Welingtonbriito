@@ -8,7 +8,7 @@
   <a href="http://linkedin.com/in/welingtonbrito" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://wa.me/5591982481517?text=Ol%C3%A1!%0ATudo%20bem%3F" target="_blank">
+  <a href="https://api.whatsapp.com/send?phone=5591982283253&text=Ol%C3%A1%2C%20me%20chamo..." target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
   <a href="https://discord.gg/YSYRHfck" target="_blank">
