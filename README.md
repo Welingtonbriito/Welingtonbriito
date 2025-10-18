@@ -45,9 +45,3 @@
 <p align="center">Estudante de Análise e desenvolvimento de sistemas, apaixonado por tecnologias e vidrado em criar soluções. 💻</p>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Welingtonbriito/count.svg?"  />
-</div>
-
-###
